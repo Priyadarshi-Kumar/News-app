@@ -1,4 +1,9 @@
+# News-App using newsAPI
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Deployment
+> Deployed using Heroku 
+visit: <a href="https://news-application-newsapi.herokuapp.com"> here for live demo</a>
 
 ## Available Scripts
 
