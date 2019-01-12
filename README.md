@@ -1,4 +1,5 @@
 # News-App using newsAPI
+This project is a news app using Reactjs and newsAPI as a source for news. A user can search the news using keyword and sort as per published date or popularity.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Deployment
