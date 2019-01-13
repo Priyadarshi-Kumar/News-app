@@ -26,7 +26,7 @@ class Search extends Component {
     }
 
     getData = () => {
-        let URL = `https://newsapi.org/v2/everything?q=${this.state.searchValue}&from=2018-12-30&sortBy=${this.state.sortBy}&apiKey=f73d1931603f41308e75b5b3454c0fd6`
+        let URL = `https://newsapi.org/v2/everything?q=${this.state.searchValue}&from=2019-01-07&sortBy=${this.state.sortBy}&apiKey=f73d1931603f41308e75b5b3454c0fd6`
         axios.get(URL)
             .then(res => { this.setState({ data: res.data }) })
             .then(console.log(this.state.data))
